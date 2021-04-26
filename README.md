@@ -2,7 +2,7 @@
 
 🔴 This is a time series forecasting model that has been created on a dummy dataset from Kaggle, and we have created the model using Facebook Prophet.
 
-🔴 Installation:
+🔴 FB Prophet Installation:
 
 ![image](https://user-images.githubusercontent.com/34673684/116026887-2dd9a980-a686-11eb-8919-926f11fc1c32.png)
 
